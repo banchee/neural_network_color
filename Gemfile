@@ -1,3 +1,6 @@
 source "https://rubygems.org"
 
-gem 'sequel', '~> 4.31'
+require "rake"
+
+gem 'pry', '~> 0.9.0'
+gem 'pry_debug'

@@ -1,0 +1,29 @@
+[[
+  [1,0,0,0],
+  [1,0,0,1],
+  [1,0,1,0],
+  [1,0,1,1],
+  [1,1,0,0],
+  [1,1,1,0],
+  [1,1,0,1],
+  [1,1,1,0],
+  [1,1,1,1]
+],
+[
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+]]
+
+
+four inputs with a total of 8 outputs
+
+4 inputs nodes that are fed to hidden layer
+1 hidden layer with 6 neurons, each receiving 4 inputs, with 4 weights
+output layer with 8 neurons, each receiving 8 inputs with its 8 weights
